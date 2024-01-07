@@ -1,0 +1,14 @@
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Homework\SystemModeling\Lab1\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
